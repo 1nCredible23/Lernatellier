@@ -11,3 +11,10 @@
   <li>Anderen helfen</li>
   <li>An gemeinsamen Spiel mit Jonathan weiter programmieren.</li>
 </ul>
+
+# 04.09.2026
+<ul>
+  <li>Am Modul 319 weiter arbeiten.</li>
+  <li>Java weiter lernen.</li>
+  <li>An persönlichem Projekt (Spiel) weiterarbeiten.</li>
+</ul>
