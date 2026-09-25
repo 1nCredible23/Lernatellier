@@ -18,3 +18,9 @@
   <li>Java weiter lernen.</li>
   <li>An persönlichem Projekt (Spiel) weiterarbeiten.</li>
 </ul>
+
+# 25.09.2026
+<ul>
+  <li>An eigenem Projekt weiterarbeiten</li>
+  <li>Javascript weiter lernen</li>
+</ul>
